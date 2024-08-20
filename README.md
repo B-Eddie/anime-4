@@ -2,7 +2,8 @@
 This is my fourth anime drawing, which is a guy from an anime I don't know
 
 Final copy:
-![image](https://github.com/user-attachments/assets/202f9db8-1045-405f-a99b-238d0e30324d)
+
+![image](IMG_4385.png)
 
 
 This is the reference image:
